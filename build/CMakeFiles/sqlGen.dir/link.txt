@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++2a   CMakeFiles/sqlGen.dir/sqlGen.cpp.o CMakeFiles/sqlGen.dir/sql_yacc.cc.o  -o /home/siwei/work/github/homeKeeper/bin/sqlGen 

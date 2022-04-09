@@ -1,0 +1,3 @@
+/home/siwei/work/github/sqlGen/build/CMakeFiles/edit_cache.dir
+/home/siwei/work/github/sqlGen/build/CMakeFiles/rebuild_cache.dir
+/home/siwei/work/github/sqlGen/build/CMakeFiles/sqlGen.dir
